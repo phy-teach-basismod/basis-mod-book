@@ -1,4 +1,4 @@
 # basis-mod-book
 Dies ist das Repository eines Buchs mit schulischen Lerneinheiten zur Physik nach den Basismodellen von Oser und Kolleg*innen.
 
-Angehende Lehrkräfte sind gerne eingeladen zu diesem Buch beizutragen.
+Angehende Lehrkräfte sind eingeladen, zu diesem Buch beizutragen.
